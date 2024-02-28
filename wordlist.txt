@@ -1,0 +1,5 @@
+wp-admin
+root
+noroot
+room
+contact-us
